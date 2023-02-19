@@ -1,1 +1,7 @@
-Per salvare i file in con git, bisogna andare nella directory dove si trovano i file ed usare il comando "Git add ." (per salvare TUTTI i file all'interno della directory corrente, oppure "git add <nome file>" per salvare un file specifico
+1) Per salvare un file con git bisogna andare nella directory dove si trovano i file da caricare e scrivere "git init" per inizializzare una repository
+
+2) Usare il comando "Git add ." (per mettere TUTTI i file all'interno della directory corrente in STAGING, oppure "git add <nome file>" per un file specifico
+
+3) digitare "git commit -m 'inserire commento'" per pushare i file e scrivere un commento sulle modifiche apportate
+
+4) Usando il comando "git status" per ogni step ci mostra lo status dei file (staging, commited ecc), usando invece "git log" ci mostra i vari cambiamenti fatti per ogni istanza.
