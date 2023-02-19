@@ -1,0 +1,1 @@
+Per salvare i file in con git, bisogna andare nella directory dove si trovano i file ed usare il comando "Git add ." (per salvare TUTTI i file all'interno della directory corrente, oppure "git add <nome file>" per salvare un file specifico
